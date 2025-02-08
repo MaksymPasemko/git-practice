@@ -3,5 +3,6 @@ public class Main {
         System.out.println("This is 4 version.");
         System.out.println("Some change in main branch.");
         System.out.println("Merging with feature3 with rebase.");
+        System.out.println("Change in main");
     }
 }
